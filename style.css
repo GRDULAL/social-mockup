@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    background-color: cornflowerblue;
+    position: absolute;
+    width: 850px;
+    height: 200px;
+    left: 200px;
+}
+#container{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.div1 {
+    background-color: rgb(114, 100, 102);
+    position: absolute;
+    height: 30px;
+    width: 850px;
+    top: 50px;
+    left: -150px;
+}
+.div2 {
+    background-color: blue;
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    left: -140px;
+    top: -10px;
+}
+
+.button {
+    text-align: right;
+    position: absolute;
+    top: 180px;
+    left: 640px;
+}
+#tabs {
+    position: absolute;
+    top: 195px;
+}
+.info {
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: -10px;
+    
+}
+.column1 {
+    background-color: cornflowerblue;
+    position: absolute;
+    width: 328px;
+    height: 300px;
+    top: 238px;
+    left: 200px;
+
+}
+.box1 {
+    background-color: blue;
+    height: 100px;
+    width: 150px;
+}
+.column2 {
+    background-color: cornflowerblue;
+    position: absolute;
+    width: 512px;
+    height: 300px;
+    top: 238px;
+    right: 230px;
+}
+.box2 {
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+}
